@@ -128,16 +128,16 @@ const config: Config = {
           position: "left",
           dropdownActiveClassDisabled: true,
         },
+        // {
+        //   href: "https://github.com/obot-platform/obot",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
         {
-          href: "https://github.com/obot-platform/obot",
-          label: "GitHub",
-          position: "right",
-        },
-        {
-          href: "https://discord.gg/9sSf4UyAMC",
+          href: "https://discord.gg/n8M9HWQT",
           label: "Discord",
           position: "right",
-        },
+        }
       ],
     },
     footer: {
@@ -149,7 +149,7 @@ const config: Config = {
         },
         {
           label: "Discord",
-          to: "https://discord.gg/9sSf4UyAMC",
+          to: "https://discord.gg/n8M9HWQT",
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Fronteir AI, Inc`,

@@ -5,7 +5,7 @@ slug: /
 
 # Fronteir AI
 
-Fronteir AI is an open-source platform that provides everything an organization needs to implement MCP technologies. It enables you to host MCP servers for internal and external users, set up MCP registries, manage and monitor MCP usage, and build feature-rich agents and chatbots that leverage MCP servers.
+Fronteir AI provides everything an organization needs to implement MCP technologies. It enables you to host MCP servers for internal and external users, set up MCP registries, manage and monitor MCP usage, and build feature-rich agents and chatbots that leverage MCP servers.
 
 ## Getting Started
 

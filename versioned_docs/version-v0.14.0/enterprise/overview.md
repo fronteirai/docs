@@ -4,4 +4,4 @@ We offer an enterprise-grade version of the Fronteir AI Platform that adds suppo
 - Additional **auth providers** such as Okta and Microsoft Entra
 - Additional **model providers** such as OpenAI on Azure and Anthropic on Amazon Bedrock
 
-You can use this version free for non-commercial and proof-of-concept purposes by reaching out to us on our [Discord](https://discord.gg/9sSf4UyAMC).
+You can use this version free for non-commercial and proof-of-concept purposes by reaching out to us on our [Discord](https://discord.gg/n8M9HWQT).

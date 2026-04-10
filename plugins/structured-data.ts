@@ -12,8 +12,8 @@ const SITE_DESCRIPTION =
   "Official documentation for Fronteir AI — the open-source MCP platform for hosting, registry, gateway, and chat.";
 const ORG_LOGO_URL = "https://docs.obot.ai/img/fronteir-logo.svg?v=2";
 const ORG_SAME_AS = [
-  "https://github.com/obot-platform/obot",
-  "https://discord.gg/9sSf4UyAMC",
+  // "https://github.com/obot-platform/obot",
+  // "https://discord.gg/n8M9HWQT",
 ];
 const LATEST_VERSION = versions[0] ?? "current";
 const OLDER_VERSIONS = versions.slice(1);
