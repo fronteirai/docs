@@ -33,25 +33,15 @@ const sitemapIgnorePatterns = [
   "/next/**",
 ];
 
-// GitHub project Pages: https://<org>.github.io/<repo>/
-// Without this, a build with baseUrl "/" breaks on github.io (assets load from domain root).
-// Use: DOCUSAURUS_GITHUB_PAGES=1 npm run deploy
-// Then open https://fronteirai.github.io/docs/ (not .../docs/docs/ — docs live at site root).
-const isGitHubIoProjectPages =
-  process.env.DOCUSAURUS_GITHUB_PAGES === "true" ||
-  process.env.DOCUSAURUS_GITHUB_PAGES === "1";
-
 const config: Config = {
   title: "Fronteir AI Docs",
   tagline: "",
   favicon: "img/favicon.ico",
-  url: isGitHubIoProjectPages
-    ? "https://fronteirai.github.io"
-    : "https://docs.fronteir.ai",
-  baseUrl: isGitHubIoProjectPages ? "/docs/" : "/",
+  url: "https://docs.fronteir.ai",
+  baseUrl: "/",
   trailingSlash: true,
-  organizationName: "fronteirai",
-  projectName: "docs",
+  organizationName: "elishakay",
+  projectName: "fronteir-hosting",
   onBrokenLinks: "throw",
 
   i18n: {
