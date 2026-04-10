@@ -40,8 +40,8 @@ const config: Config = {
   url: "https://docs.fronteir.ai",
   baseUrl: "/",
   trailingSlash: true,
-  organizationName: "elishakay",
-  projectName: "fronteir-hosting",
+  organizationName: "fronteirai",
+  projectName: "docs",
   onBrokenLinks: "throw",
 
   i18n: {
@@ -113,12 +113,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/obot-logo-blue-black-text.svg",
+    image: "img/fronteir-logo.svg?v=2",
     navbar: {
       logo: {
         alt: "Fronteir AI Logo",
-        src: "img/obot-logo-blue-black-text.svg",
-        srcDark: "img/obot-logo-blue-white-text.svg",
+        src: "img/fronteir-logo.svg?v=2",
+        srcDark: "img/fronteir-logo.svg?v=2",
       },
       items: [
         {

@@ -10,7 +10,7 @@ const ORG_DESCRIPTION =
   "Fronteir AI is an open-source platform for hosting, managing, and securing MCP servers in enterprise environments.";
 const SITE_DESCRIPTION =
   "Official documentation for Fronteir AI — the open-source MCP platform for hosting, registry, gateway, and chat.";
-const ORG_LOGO_URL = "https://docs.obot.ai/img/obot-logo-blue-black-text.svg";
+const ORG_LOGO_URL = "https://docs.obot.ai/img/fronteir-logo.svg?v=2";
 const ORG_SAME_AS = [
   "https://github.com/obot-platform/obot",
   "https://discord.gg/9sSf4UyAMC",
