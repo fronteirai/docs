@@ -87,7 +87,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/obot-platform/obot/tree/main/docs",
+          editUrl: "https://github.com/fronteirai/docs",
           routeBasePath: "/", // Serve the docs at the site's root
 
           // Versioning configuration - dynamically generated from versions.json
@@ -128,11 +128,16 @@ const config: Config = {
           position: "left",
           dropdownActiveClassDisabled: true,
         },
-        // {
-        //   href: "https://github.com/obot-platform/obot",
-        //   label: "GitHub",
-        //   position: "right",
-        // },
+        {
+          href: "https://fronteir.ai",
+          label: "Homepage",
+          position: "right",
+        },
+        {
+          href: "https://connectors.fronteir.ai",
+          label: "Platform",
+          position: "right",
+        },
         {
           href: "https://discord.gg/n8M9HWQT",
           label: "Discord",
@@ -144,8 +149,12 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          label: "GitHub",
-          to: "https://github.com/obot-platform/obot",
+          label: "Homepage",
+          to: "https://fronteir.ai",
+        },
+        {
+          label: "Platform",
+          to: "https://connectors.fronteir.ai",
         },
         {
           label: "Discord",
