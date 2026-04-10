@@ -14,8 +14,6 @@ You can override this namespace and set it to whatever you would like using the 
 In order to set up Deployments, Services, and Secrets, Fronteir AI needs a ServiceAccount, Role, and RoleBinding
 that give it permissions to do so in the namespace. All of this is included in the Helm chart.
 
-
-
 These permissions are granted only for the namespace where Fronteir AI deploys MCP servers.
 
 ## K8s objects for each MCP server
