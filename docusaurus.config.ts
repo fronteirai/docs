@@ -40,7 +40,7 @@ const config: Config = {
   url: "https://docs.fronteir.ai",
   // Root base URL: GitHub Pages serves this site at the hostname root on the
   // custom domain (docs.fronteir.ai), not under /docs/ like github.io/docs/.
-  baseUrl: "/",
+  baseUrl: "/docs",
   trailingSlash: true,
   organizationName: "fronteirai",
   projectName: "docs",
